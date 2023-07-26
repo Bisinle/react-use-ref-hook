@@ -1,0 +1,28 @@
+body {
+  background-color: #442445;
+  color: white;
+}
+
+.navbar {
+  margin-top: 20px;
+}
+.home {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.focus-input {
+  text-align: center;
+}
+
+.focus-input span {
+  color: coral;
+  text-decoration: underline wheat;
+}
+.focus-input input {
+  margin: 10px;
+}
+
+.input-focus span {
+  color: coral;
+}
